@@ -34,6 +34,7 @@ set /a VEHICLE_BUDGET = %VEH_SIZE% + %MOD_SUM%
 
 :: Calculate total PedBudget
 set /a PED_BUDGET = %PED_SIZE% + %MOD_SUM%
+
 echo VehicleBudget = %VEHICLE_BUDGET%
 echo PedBudget = %PED_BUDGET%
 

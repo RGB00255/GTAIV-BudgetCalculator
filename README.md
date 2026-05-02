@@ -7,6 +7,11 @@ SO, you are using FusionFix, you installed some mods and are having the taxi bug
   1. Download BudgetCalculator.bat
   2. Place in "<path-to-game>\GTAIV" (where GTAIV.exe is)
   3. Run BudgetCalculator.bat
-  4. Put your output value in the VehicleBudget line in "<path-to-game>\GTAIV\plugins\GTAIV.EFLC.FusionFix.ini" 
+  4. Put your output value in the VehicleBudget line in "<path-to-game>\GTAIV\plugins\GTAIV.EFLC.FusionFix.ini"
 
-Script generated with Grok and edited afterwards.
+* See bottom of README.md for more details about your values.*
+##
+
+Script generated with generative AI (Grok) and edited afterwards.
+
+*Please note that this script calculates the absolute values of your vehicle and ped data. As far as I understand, RIL.Budgeted wasn't made for you to set these values to their highest possible so it may be better to take about 20%-40% of what is calculated as your actual values.
