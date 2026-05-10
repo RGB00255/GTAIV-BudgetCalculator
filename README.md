@@ -1,3 +1,5 @@
+# USE THIS NEWER AND BETTER ONE WHICH IS MADE IN PYTHON (CROSS-PLATFORM): https://github.com/RGB00255/GTAIV-BudgetCalculator-Python
+
 # GTAIV-BudgetCalculator
 	
 SO, you are using FusionFix, you installed some mods and are having the taxi bug. This can be fixed in "<path-to-game>\GTAIV\plugins\GTAIV.EFLC.FusionFix.ini" by setting "VehicleBudget" to 260000000. If you would rather calculate the exact value yourself you are welcome to try this batch file.
